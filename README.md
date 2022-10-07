@@ -17,7 +17,7 @@
 ### ⌛️ Retrospect
 
 
-![Email](https://img.shields.io/badge/sanha0498@gmail.com-red?logo=gmail&logoColor=fff) [![Blog](https://img.shields.io/badge/TIL-https://headf1rst.github.io/TIL/-%23333?labelColor=%23aaa)](https://headf1rst.github.io/TIL/) [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sanha.io)
+![Email](https://img.shields.io/badge/32172086@dankook.ac.kr-red?logo=gmail&logoColor=fff) [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sh_.jun/)
 
 
 [instagram]:https://www.instagram.com/sh_.jun/
