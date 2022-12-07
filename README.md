@@ -1,9 +1,14 @@
-##밝은 내일을 위해 👋
-- 📖 I'm currently reading - 오브젝트
+##조금더 나은 개발자가 되기위해 👋
+- 📖 I'm currently Studying :
+    -Algorithm
+    -Java Spring Boot
+    -Java
 - 🎓 Education: 
     -    Sayfol International school
     - 🇰🇷 기흥고등학교
     - 🇰🇷 단국대학교 소프트웨어학과
+- 😄 Pronouns: 축구와 게임을 좋아해요!
+- ⚡ MBTI: ESTP
 
 
 ### Laguages and Tools:
@@ -23,12 +28,5 @@
 [instagram]:https://www.instagram.com/sh_.jun/
 [email]:32172086@dankook.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: 축구와 게임을 좋아해요!
+- ⚡ MBTI: ESTP
