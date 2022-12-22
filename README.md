@@ -36,6 +36,3 @@
 
 [instagram]:https://www.instagram.com/sh_.jun/
 [email]:32172086@dankook.ac.kr
-
-- 😄 Pronouns: 축구와 게임을 좋아해요!
-- ⚡ MBTI: ESTP
