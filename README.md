@@ -7,7 +7,7 @@
 - 📖 I'm currently Studying :
     -Algorithm
     -Java Spring Boot
-    -Java
+    -JPA
 - 🎓 Education: 
     - 🇲🇾Sayfol International school
     - 🇰🇷 기흥고등학교
