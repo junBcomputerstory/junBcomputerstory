@@ -21,17 +21,15 @@
 
 
 ### Laguages and Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=SpringBoot&logoColor=white) <br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)<br>
 ![Docker](https://img.shields.io/badge/Docker-Blue?style=flat&logo=Docker&logoColor=white)<br>
 
 
-
-### 📚 Article
 
 ### ⌛️ Retrospect
 
