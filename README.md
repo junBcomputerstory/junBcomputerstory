@@ -15,6 +15,7 @@
 - 😄 Pronouns: 축구와 게임을 좋아해요!
 - ⚡ MBTI: ESTP
 
+
 ### Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggaye159)](https://solved.ac/ggaye159) 
 
