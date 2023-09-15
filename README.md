@@ -13,7 +13,7 @@
     - 🇰🇷 기흥고등학교
     - 🇰🇷 단국대학교 소프트웨어학과
 - 😄 Pronouns: 축구와 게임을 좋아해요!
-- ⚡ MBTI: ESTP
+- ⚡ MBTI: ESTJ
 
 
 ### Algorithm
