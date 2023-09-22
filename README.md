@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello!👋%20I'm%10HONGJUN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=RECT&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello!👋%20I'm%10HONGJUN&fontSize=90)
 
 <h3>🧑🏻‍💻실패를 도전하는 개발자 석홍준입니다.</h3>
     더 많은 시도를 해보고 더 많은 실패를 맛봄으로써 더 나은 개발자가 되기 위해 항상 노력하고 있습니다.
